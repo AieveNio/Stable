@@ -305,7 +305,7 @@ do
         echo "Usage: $0 [-f|--force-install] [-l|--template-location <git repo|directory>] [-n|--template-name <name>] [-i|--install-path <directory>]"
         echo "Options:"
         echo "-f, --force-install          Force reinstall"
-        echo "-l, --template-location      Location of the template repo or local directory (default: https://https://github.com/AieveNio/Stable)"
+        echo "-l, --template-location      Location of the template repo or local directory (default: https//github.com/AieveNio/Stable)"
         echo "-n, --template-name          Name of the template to install (default: example-template)"
         echo "-i, --install-path           Path to install SD (default: /content/drive/MyDrive/StableD)"
         exit 1
