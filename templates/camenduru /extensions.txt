@@ -2,6 +2,7 @@ https://github.com/hanamizuki-ai/stable-diffusion-webui-localization-zh_Hans
 https://github.com/toriato/stable-diffusion-webui-wd14-tagger
 https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/adieyal/sd-dynamic-prompts
+https://github.com/ototadana/sd-face-editor
 https://github.com/camenduru/sd-civitai-browser
 https://github.com/Physton/sd-webui-prompt-all-in-one
 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
