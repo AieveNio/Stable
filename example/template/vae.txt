@@ -1,0 +1,1 @@
+https://huggingface.co/akibanzu/animevae/resolve/main/animevae.pt
