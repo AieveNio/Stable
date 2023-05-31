@@ -269,9 +269,9 @@ function run {
     cd $BASEPATH && python launch.py --listen --share --xformers --enable-insecure-extension-access --theme dark --clip-models-path $BASEPATH/models/CLIP
 }
 
-BASEPATH=/content/drive/MyDrive/SD
-TEMPLATE_LOCATION="https://github.com/AI-skimos/3line-colab-sd"
-TEMPLATE_NAME="camenduru"
+BASEPATH=/content/drive/MyDrive/StableD
+TEMPLATE_LOCATION="https://github.com/AieveNio/Stable"
+TEMPLATE_NAME="example-template"
 while [[ $# -gt 0 ]]
 do
     key="$1"
